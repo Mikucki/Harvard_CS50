@@ -2,5 +2,6 @@
 
 int main(void)
 {
-    printf("hello, worlsdasdasd!\n");
+    int n = 50;
+    printf("%p\n", &n);
 }
